@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1034160855017-8aljim7s4ii64kmfqt04386mrapgqa1o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1034160855017-8aljim7s4ii64kmfqt04386mrapgqa1o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1034160855017-ipu2ce9jarqkrv3gho51kvla99kj5huh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvcequrwaexDfCtuxNbHLBsdgcrnmDnrw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1034160855017</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.farmerbuggy</string>
+	<key>PROJECT_ID</key>
+	<string>green-farmer-develop</string>
+	<key>STORAGE_BUCKET</key>
+	<string>green-farmer-develop.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1034160855017:ios:bd4bf8d8aa6756428f9d78</string>
+</dict>
+</plist>
