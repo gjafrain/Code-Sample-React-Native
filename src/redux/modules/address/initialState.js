@@ -1,0 +1,18 @@
+export const initialState = () => ({
+    addressList: [],
+    fetchAddressListLoading: false,
+    fetchAddressListFailure: false,
+    fetchAddressListSuccess: true,
+    addAddressLoading: false,
+    addAddressFailure: false,
+    addAddressSuccess: true,
+    updateAddressLoading: false,
+    updateAddressFailure: false,
+    updateAddressSuccess: true,
+    deleteAddressLoading: false,
+    deleteAddressFailure: false,
+    deleteAddressSuccess: true,
+    setDefaultAddressLoading: false,
+    setDefaultAddressFailure: false,
+    setDefaultAddressSuccess: true,
+});

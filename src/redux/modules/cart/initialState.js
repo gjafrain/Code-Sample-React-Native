@@ -1,0 +1,16 @@
+export const initialState = () => ({
+    cart: {},
+    items: [],
+    fetchCartPending: false,
+    fetchCartSuccess: true,
+    fetchCartFail: false,
+    addCartItemPending: false,
+    addCartItemSuccess: true,
+    addCartItemFail: false,
+    updateCartPending: false,
+    updateCartSuccess: true,
+    updateCartFail: false,
+    deleteCartPending: false,
+    deleteCartSuccess: true,
+    deleteCartFail: false,
+});
